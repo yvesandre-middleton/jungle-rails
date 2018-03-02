@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Added multiple new features.
+
+## Final Product
+
+!["This is the main page populated with tweets and with text in the compose box"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/mainscreen-textbox-has-input.png?raw=true)
+!["This is the main page populated with tweets and with the compose box folded up"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/compose-form-folded-up.png?raw=true)
+!["This is the main page populated with tweets and with an error message saying the tweet is too long. Notice the counter is also red when over 140 characters"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/message-too-long-error.png?raw=true)
 
 
 ## Setup
@@ -26,3 +32,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+# Creator Information
+
+- Yves-André Middleton
+- Created March 2 2018
+- Created while at Lighthouse Labs Web Development bootcamp. January 2018 Cohort.
+- Direct questions to yvesmiddleton@gmail.com
+- Github: https://github.com/yvesandre-middleton
+- Linkedin: https://www.linkedin.com/in/yves-andr%C3%A9-middleton-04424661/

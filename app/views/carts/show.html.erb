@@ -4,6 +4,7 @@
     <h1>My Cart</h1>
   </header>
 
+  <% if cart.size != 0 %>
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -47,6 +48,9 @@
           data-currency="cad">
         </script>
       <% end %>
+      <% else %>
+        <%= render 'empty' %>
+    <% end %>
     </div>
   </div>
 

@@ -4,9 +4,15 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Final Product
 
-!["This is the main page populated with tweets and with text in the compose box"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/mainscreen-textbox-has-input.png?raw=true)
-!["This is the main page populated with tweets and with the compose box folded up"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/compose-form-folded-up.png?raw=true)
-!["This is the main page populated with tweets and with an error message saying the tweet is too long. Notice the counter is also red when over 140 characters"](https://github.com/yvesandre-middleton/tweeter-app/blob/master/docs/message-too-long-error.png?raw=true)
+!["The product page with the user Clark logged in"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.38.06%20PM.png?raw=true)
+!["The product page with an item that has 0 quantity shown as sold out"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.38.16%20PM.png?raw=true)
+!["The product detail page with two reviews from two different users. The user that is logged in is able to delete there own review"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.38.28%20PM.png?raw=true)
+!["The cart page filled out with one item"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.38.42%20PM.png?raw=true)
+!["The order page with a completed order with the orders details"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.39.06%20PM.png?raw=true)
+!["The admin page that allows them to create a new category"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.38.42%20PM.png?raw=true)
+!["The modify products admin page with a new category added"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.39.52%20PM.png?raw=true)
+!["The sign up page for a new user"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.41.52%20PM.png?raw=true)
+!["The login page for a new user"](https://github.com/yvesandre-middleton/jungle-rails/blob/master/docs/Screen%20Shot%202018-03-02%20at%206.41.57%20PM.png?raw=true)
 
 
 ## Setup

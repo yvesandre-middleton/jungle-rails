@@ -151,4 +151,3 @@ Review.create!({
   rating: 2
   })
 
-## SET USER

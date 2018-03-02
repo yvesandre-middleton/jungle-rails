@@ -1,9 +1,18 @@
+<aside class="reviews">
 <div>
   User:
   <%= review.user.first_name %>
+</div>
+<div>
   Review:
   <%= review.description %>
+</div>
+<div>
   Rating:
   <%= review.rating %>
   / 10
 </div>
+<% if review.user_id == current_user.id %>
+  <%= link_to fa_icon('trash'), [@product, review], class: 'btn btn-sm btn-danger', method: :delete, data: { confirm: "Are you sure?" } %>
+<% end %>
+</aside>

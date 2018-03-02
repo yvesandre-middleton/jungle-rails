@@ -134,3 +134,21 @@ cat3.products.create!({
 
 
 puts "DONE!"
+
+## REVIEWS
+
+Review.create!({
+  product: Product.first,
+  user_id: 1,
+  description: 'This product is amazing!',
+  rating: 9
+  })
+
+Review.create!({
+  product: Product.last,
+  user_id: 1,
+  description: 'This product is not so good!',
+  rating: 2
+  })
+
+## SET USER

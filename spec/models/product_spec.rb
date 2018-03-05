@@ -69,5 +69,6 @@ end
     expect(@product).to_not be_valid
     expect(@product.errors[:category].size).to eq(1)
     end
+
   end
 end

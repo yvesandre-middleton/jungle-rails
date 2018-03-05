@@ -12,3 +12,5 @@ class Product < ActiveRecord::Base
   validates :category, presence: true
 
 end
+
+# product.errors.full_messages

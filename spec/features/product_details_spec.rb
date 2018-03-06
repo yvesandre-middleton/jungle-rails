@@ -33,6 +33,6 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
   # VERIFY
   expect(page).to have_content('Reviews')
   save_screenshot
-end
+  end
 
 end

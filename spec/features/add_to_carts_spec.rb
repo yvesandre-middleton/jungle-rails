@@ -33,6 +33,6 @@ RSpec.feature "AddToCarts", type: :feature, js: true do
   # VERIFY
   expect(page).to have_content('My Cart (1)')
   save_screenshot
-end
+  end
 
 end
